@@ -113,4 +113,12 @@ lib/generated_plugin_registrant.dart
 # Support for Project snippet scope
 !.vscode/*.code-snippets
 
+# IntelliJ IDEA
+*.iml
+
+# User-specific configurations
+.idea/libraries/
+.idea/workspace.xml
+.idea/modules.xml
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,dart,flutter
