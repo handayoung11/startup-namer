@@ -1,5 +1,6 @@
 # startup_namer
-The Flutter project that user can select and unselect names, saving the best ones. The code lazily generates 10 names at a time. As the user scrolls, more names are generated. There is no limit to how far a user can scroll.
+사용자가 이름을 선택하고 선택해제할 수 있으면 마음에 드는 이름들을 저장할 수 있다.  
+유저가 최하단으로 스크롤할 때마다 10개의 이름이 추가생성되며 이름 생성은 제한이 없다.
 
 ## environment & language
 framework: flutter  
